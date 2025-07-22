@@ -8,3 +8,6 @@ function sequence(inputArray){
 }
 
 console.log(sequence([1,4,3,0]))
+
+// output : [1,2,3] true 
+// output : [2,1,5] false
