@@ -13,4 +13,4 @@ function arrayReplace(inputArray, elementToReplace, subtractionElem){
 
 arrayReplace([1, 2, 1], 1, 3);
 
-// output = 3,2,3 
+// output = 3,2,3   
